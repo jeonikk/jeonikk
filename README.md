@@ -48,6 +48,15 @@ React · Spring Boot 기반 프로젝트를 진행하며, 고객센터/문의 �
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonikk&layout=compact&theme=tokyonight)
 
 ---
+## 📬 Contact
+<p align="center">
+  <a href="mailto:meister1213@naver.com">
+    <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Email Badge"/>
+  </a>
+  <a href="mailto:jeonikk0226@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
 
 ---
 
