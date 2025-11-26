@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.eyesmag.com/content/uploads/posts/2024/10/24/3-91b6b86b-0f70-4308-ba73-d0558b744c7f.png" width="500"/>
+  <img src="https://cdn.eyesmag.com/content/uploads/posts/2024/10/24/3-91b6b86b-0f70-4308-ba73-d0558b744c7f.png" width="300"/>
 </div>
 
 <br/>
