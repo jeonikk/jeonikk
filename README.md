@@ -49,4 +49,13 @@ React · Spring Boot 기반 프로젝트를 진행하며, 고객센터/문의 �
 
 ---
 
+---
+
+<p align="center">
+  <a href="https://www.notion.so/27e0addff0a080b2a42ed72f1af7edcb" target="_blank">
+    <img src="https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
+  </a>
+</p>
+
+
 
