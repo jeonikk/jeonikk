@@ -4,7 +4,7 @@
 
 <br/>
 
-## 👋 Hi, I'm 전익환 | Detail-Oriented Junior Developer
+## 👋 Hi, I'm 전익환
 
 저는 디테일을 중요하게 생각하고, 사용자에게 의미 있는 경험을 주는 웹 서비스를 만들고 싶은 개발자입니다.  
 React · Spring Boot 기반 프로젝트를 진행하며, 고객센터/문의 기능, 프로필/설정 페이지 등 실 서비스형 UI/UX 구현 경험이 있습니다.
