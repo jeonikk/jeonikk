@@ -48,6 +48,9 @@ React · Spring Boot 기반 프로젝트를 진행하며, 고객센터/문의 �
 </div>
 
 ---
+## 💻 MY PORTFOLIO
+https://jeonikk.github.io/Portfolio.github.io/
+---
 
 ## 📬 Contact
 
