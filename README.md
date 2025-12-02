@@ -85,7 +85,3 @@ https://jeonikk.github.io/Portfolio.github.io/
   <br/>Feel free to reach out anytime!
 </p>
 
-<p align="center">
-  <a href="https://jeonikk.github.io/Portfolio.github.io/" target="_blank">MY PORTPOLIO SITE</a>
-</p>
-
