@@ -81,7 +81,7 @@ https://jeonikk.github.io/Portfolio.github.io/
 </p>
 
 <p align="center">
-  ✨ Thank you for visiting my GitHub Profile ✨  
+   Thank you for visiting my GitHub Profile 
   <br/>Feel free to reach out anytime!
 </p>
 
